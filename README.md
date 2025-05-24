@@ -27,7 +27,6 @@
 </div>
 
 <br></br>
-<br></br>
 
 <div aligh="center">
   <img src="https://raw.githubusercontent.com/Berthorum/Berthorum/output/snake.svg" alt="Snake animation" />
