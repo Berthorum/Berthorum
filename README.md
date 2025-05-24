@@ -29,4 +29,4 @@
 <br></br>
 <br></br>
 
-![Snake animation](https://github.com/Berthorum/Berthorum/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
