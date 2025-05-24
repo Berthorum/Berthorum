@@ -26,9 +26,7 @@
   </div>
 </div>
 
-![Snake animation](https://github.com/Berthorum/blob/output/github-contribution-grid-snake.svg)
+<br></br>
+<br></br>
 
-
-
-
-
+![Snake animation](https://github.com/Berthorum/Berthorum/blob/output/github-contribution-grid-snake-dark.svg)
