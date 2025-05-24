@@ -29,4 +29,6 @@
 <br></br>
 <br></br>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div aligh="center">
+  <img src="https://raw.githubusercontent.com/Berthorum/Berthorum/output/snake.svg" alt="Snake animation" />
+</div>
