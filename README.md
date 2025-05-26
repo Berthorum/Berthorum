@@ -1,8 +1,10 @@
 # Olá pessoas, Me chamo Ravier!
 
-#### Formado em Computação, me considero um Resolvedor de Problemas (Problem Solver). Me intitulo dessa forma, pois tenho como objetivo contribuir para o desenvolvimento de pessoas e empresas independente de quais ferramentas, processos, métodos ou práticas sejam utilizadas/necessárias a fim de alcançar esse objetivo.
+### Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
 
-#### Atuei durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile. Possuo interesse em várias áreas da Computação e Tecnologia da Informação sendo Teste de Software (Software Testing), Garantia de Qualidade de Software (SQA) e Computação Gráfica (Computer Graphics) as mais latentes no momento e que desejo realizar transição profissional.
+### Meu fascínio por interatividade, animações e gráficos me levou a conhecer e explorar um pouco de algumas áreas dentro da Computação Visual, Computação Gráfica e Jogos Digitais mais precisamente, que são as áreas de meu maior interesse. Atualmente estou focando meus estudos na parte de Arte Técnica (Technical Art), dentro da área de Jogos Digitais.
+
+### Além disso, atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile e também possuo interesse na área de Testes e Qualidade de Software.
 
 <div>
   <h2>Github Stats</h2>
