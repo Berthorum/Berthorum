@@ -2,9 +2,9 @@
 
 #### Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
 
-#### Meu fascínio por interatividade, animações e gráficos me levou a conhecer e explorar um pouco de algumas áreas dentro da Computação Visual, Computação Gráfica e Jogos Digitais mais precisamente, que são as áreas de meu maior interesse. Atualmente estou focando meus estudos na parte de Arte Técnica (Technical Art), dentro da área de Jogos Digitais.
+#### Meu fascínio por interatividade, animações e gráficos me levou a conhecer e explorar um pouco de algumas áreas como Computação Visual (Computação Gráfica mais precisamente) e Jogos Digitais, que são as áreas de meu maior interesse. Atualmente estou focando meus estudos em Graphics Programming e Tech Art(Shaders) com foco nas suas aplicações em Jogos Digitais.
 
-#### Além disso, atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile e também possuo interesse na área de Testes e Qualidade de Software.
+#### Além disso, também tenho interesse na área de Testes e Qualidade de Software e atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile.
 
 <div>
   <h2>Github Stats</h2>
@@ -15,15 +15,18 @@
 <div>
   <h2>Principais Tecnologias e Softwares</h2>
   <div>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" />
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="50" height="50" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />      
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />     
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"  />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" />
+
+    
   </div>
 </div>
 
