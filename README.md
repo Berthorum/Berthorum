@@ -1,8 +1,8 @@
 # Olá pessoas, Me chamo Ravier!
 
-#### Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
+#### Mestrando em Ciência da Computação e Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
 
-#### Meu fascínio por interatividade, animações e gráficos me levou a conhecer e explorar um pouco de algumas áreas como Computação Visual (Computação Gráfica mais precisamente) e Jogos Digitais, que são as áreas de meu maior interesse. Atualmente estou focando meus estudos em Graphics Programming e Tech Art(Shaders) com foco nas suas aplicações em Jogos Digitais.
+#### Meu fascínio por interatividade, animações e gráficos me levou a conhecer e explorar um pouco de algumas áreas como Computação Visual (Computação Gráfica mais precisamente), área escolhida para pesquisa no Mestrado, e Jogos Digitais que são as áreas de meu maior interesse. Atualmente estou focando meus estudos em Graphics Programming e Tech Art (Shaders) com foco nas suas aplicações em Jogos Digitais entre outros contextos.
 
 #### Além disso, também tenho interesse na área de Testes e Qualidade de Software e atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile.
 
