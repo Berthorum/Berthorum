@@ -6,11 +6,7 @@
 
 #### Além disso, atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile.
 
-<div>
-  <h2>Github Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berthorum&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Berthorum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<br/>
 
 <div>
   <h2>Principais Tecnologias e Softwares</h2>
