@@ -2,7 +2,7 @@
 
 #### Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
 
-#### As áreas que possuo maior interesse são: Testes e Qualidade de Software, Cibersegurança, com ênfase em Segurança Ofensiva (Pentest / Red Team) e Computação Visual. Aqui você encontrará projetos majoritariamente relacionados a essas áreas!
+#### As áreas que possuo maior interesse são: Testes e Qualidade de Software, Cibersegurança e Computação Visual. Aqui você encontrará projetos majoritariamente relacionados a essas áreas!
 
 #### Além disso, atuei profissionalmente durante 3 anos na área de Desenvolvimento de Software, boa parte do tempo como Analista Desenvolvedor, focado na área de Desenvolvimento Front-End Web/Mobile.
 
