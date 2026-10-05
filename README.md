@@ -21,14 +21,6 @@
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"  width="40" height="40" />
       <br /><sub><b>Kali Linux</b></sub>
     </td>
-    <td align="center" style="border: none; padding: 15px 20px;" width="120">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" />
-        <br /><sub><b>C++</b></sub>
-    </td>
-    <td align="center" style="border: none; padding: 15px 20px;" width="120">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-        <br /><sub><b>C-Sharp</b></sub>
-    </td>
      <td align="center" style="border: none; padding: 15px 20px;" width="120">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
         <br /><sub><b>Dart</b></sub>
@@ -36,14 +28,6 @@
      <td align="center" style="border: none; padding: 15px 20px;" width="120">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"  />
         <br /><sub><b>TypeScript</b></sub>
-    </td>
-     <td align="center" style="border: none; padding: 15px 20px;" width="120">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-        <br /><sub><b>React</b></sub>
-    </td>
-     <td align="center" style="border: none; padding: 15px 20px;" width="120">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-        <br /><sub><b>TailwindCSS</b></sub>
     </td>
   </tr>
 </table>
