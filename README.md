@@ -1,4 +1,4 @@
-# Olá pessoas, Me chamo Ravier!
+# Olá pessoas!
 
 #### Licenciado em Computação, me considero um Solucionador de Problemas (Problem Solver). 
 
@@ -31,8 +31,4 @@
     </td>
   </tr>
 </table>
-</div>
-
-<div aligh="center">
-  <img src="https://raw.githubusercontent.com/Berthorum/Berthorum/output/snake.svg" alt="Snake animation" />
 </div>
